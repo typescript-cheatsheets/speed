@@ -6,7 +6,7 @@ my TS project is slow to build. now what?
 2. use `--incremental`
 3. `yarn tsd --diagnostics` to get a sense
 4. TypeScript team performance documentation - https://github.com/microsoft/TypeScript/wiki/Performance
-5. TypeScript Peformance tracing (4.1+ only) - https://github.com/microsoft/TypeScript/wiki/Performance-Tracing
+5. TypeScript Performance tracing (4.1+ only) - https://github.com/microsoft/TypeScript/wiki/Performance-Tracing
 
 ## war stories
 
